@@ -1,7 +1,7 @@
 package pe.egcc.app.prueba;
 
 import java.sql.Connection;
-import pe.egcc.app.db.AccesoDB;
+import pe.egcc.eurekaapp.db.AccesoDB;
 
 /**
  *
